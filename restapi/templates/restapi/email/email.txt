@@ -1,0 +1,7 @@
+Hello {{ user }},
+
+This is fun stuff going on.
+
+You have purchased: {{ book }}
+
+Thanks
